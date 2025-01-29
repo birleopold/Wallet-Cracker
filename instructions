@@ -1,0 +1,12 @@
+install docker
+download the code or git clone the code with all files
+register with etherscan and get an api key
+insert the api key in .env file and .yml files
+open cmd and navigate to the folder with the code
+run docker-compose build
+then docker-compose up command to start cracking
+Good Luck
+
+some BTC coffee
+
+19oPxzEvFjvGwE3GxGTNTQXK8ruRGhjNJJ
